@@ -27,4 +27,4 @@ namespace MauiBlazorApp
             return builder.Build();
         }
     }
-}`
+}
