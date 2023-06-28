@@ -1,10 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using Krdn.Maui.ApplicationCore.Entities;
+using Krdn.Maui.ApplicationCore.Entities.BasketAggregate;
+using Krdn.Maui.ApplicationCore.Entities.OrderAggregate;
+using Microsoft.EntityFrameworkCore;
 using System.Reflection;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Krdn.Maui.Infrastructure.Data;
 
